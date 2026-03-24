@@ -1,4 +1,4 @@
-# Alzheimer's Disease Data Mining & Prediction
+# Data Mining: Alzheimer's Disease 
 
 ## Overview
 This project analyzes patient data to identify risk factors and predict Alzheimer's disease using data mining and machine learning techniques.
